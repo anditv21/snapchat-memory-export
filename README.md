@@ -50,7 +50,7 @@ This script automatically downloads all your memories from the HTML file and spl
   pip install requests beautifulsoup4
   ```
 
-**Don't have Python?** Check the [Releases]() section for a pre-built executable file that you can run directly without installing Python.
+**Don't have Python?** Check the [Releases](https://github.com/anditv21/snapchat-memory-export/releases/tag/Release) section for a pre-built executable file that you can run directly without installing Python.
 
 ## How to Use
 
